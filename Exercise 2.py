@@ -23,7 +23,7 @@ print("Cislo v binarnej forme: "+"{:0>32}".format(binaryNumber)+'\n')
 
 
 
-# 3.Vypíš čísla do tabulky od 0 po 15 v decimálnej, binarnej, octálnej a hexadecimálnej forme.
+# 3.Vypíš čísla do tabulky od 0 po 15 v decimálnej, binarnej, octálnej a hexadecimálnej forme..
 
 width = 51
 
